@@ -1,0 +1,90 @@
+PokerStars Hand #178006075741:  Hold'em No Limit (£0.50/£1.00 GBP) - 2017/11/09 11:31:20 ET
+Table 'Aaryn II' 6-max Seat #1 is the button
+Seat 1: lavoice790 (£75.63 in chips)
+Seat 2: Dioprest (£100 in chips)
+Seat 3: Aherli (£100 in chips)
+Seat 5: StarkomT3ob (£100 in chips)
+Dioprest: posts small blind £0.50
+Aherli: posts big blind £1
+*** HOLE CARDS ***
+StarkomT3ob: raises £1.60 to £2.60
+lavoice790: folds
+Dioprest: folds
+Aherli: folds
+Uncalled bet (£1.60) returned to StarkomT3ob
+StarkomT3ob collected £2.50 from pot
+StarkomT3ob: doesn't show hand
+*** SUMMARY ***
+Total pot £2.50 | Rake £0
+Seat 1: lavoice790 (button) folded before Flop (didn't bet)
+Seat 2: Dioprest (small blind) folded before Flop
+Seat 3: Aherli (big blind) folded before Flop
+Seat 5: StarkomT3ob collected (£2.50)
+
+
+PokerStars Hand #172842700794:  Hold'em No Limit ($0.50/$1.00 USD) - 2017/07/10 6:53:37 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 1: hugeoverbet ($159.61 in chips)
+Seat 2: klh3006 ($83.70 in chips)
+Seat 4: Gramstad93 ($65.35 in chips)
+Seat 5: er13to ($127.40 in chips)
+Seat 6: ILUVTHRILL ($144.68 in chips)
+hugeoverbet: posts small blind $0.50
+klh3006: posts big blind $1
+serhiy1989: sits out
+*** HOLE CARDS ***
+Gramstad93: folds
+er13to: folds
+ILUVTHRILL: raises $1.25 to $2.25
+hugeoverbet: folds
+klh3006: folds
+Uncalled bet ($1.25) returned to ILUVTHRILL
+ILUVTHRILL collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: hugeoverbet (small blind) folded before Flop
+Seat 2: klh3006 (big blind) folded before Flop
+Seat 4: Gramstad93 folded before Flop (didn't bet)
+Seat 5: er13to folded before Flop (didn't bet)
+Seat 6: ILUVTHRILL (button) collected ($2.50)
+
+
+PokerStars Hand #172705401714:  Hold'em No Limit ($1/$2 USD) - 2017/07/07 0:02:32 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 1: RS932 ($243.08 in chips)
+Seat 2: PunKkKid ($200 in chips)
+Seat 3: angelrich ($212.64 in chips)
+Seat 4: RomaTroy ($200 in chips)
+Seat 5: xfriendlyx ($200 in chips)
+xfriendlyx: posts small blind $1
+RS932: posts big blind $2
+*** HOLE CARDS ***
+PunKkKid: folds
+angelrich: folds
+RomaTroy: raises $2.40 to $4.40
+xfriendlyx: folds
+RS932: calls $2.40
+*** FLOP *** [3s 5h 3d]
+RS932: checks
+RomaTroy: bets $4.66
+RS932: calls $4.66
+*** TURN *** [3s 5h 3d] [Td]
+RS932: checks
+RomaTroy: bets $11
+RS932: calls $11
+*** RIVER *** [3s 5h 3d Td] [2h]
+RS932: checks
+RomaTroy: bets $28
+RS932: calls $28
+*** SHOW DOWN ***
+RomaTroy: shows [7c 6s] (a pair of Threes)
+RS932: shows [5c 8c] (two pair, Fives and Threes)
+RS932 collected $94.37 from pot
+*** SUMMARY ***
+Total pot $97.12 | Rake $2.75
+Board [3s 5h 3d Td 2h]
+Seat 1: RS932 (big blind) showed [5c 8c] and won ($94.37) with two pair, Fives and Threes
+Seat 2: PunKkKid folded before Flop (didn't bet)
+Seat 3: angelrich folded before Flop (didn't bet)
+Seat 4: RomaTroy (button) showed [7c 6s] and lost with a pair of Threes
+Seat 5: xfriendlyx (small blind) folded before Flop
