@@ -6,7 +6,8 @@ https://docs.google.com/document/d/1InL9BwYu9jMgJS_HxLsTb4r2A_LCJhWxpxf-eZfx2L4/
 
 
 Just download both python files and run with some input file like:
-> python3 main.py input.txt
+python3 main.py input.txt
+
 You can run the code with one single input or a big file with at least one blank line between each input
 
 
